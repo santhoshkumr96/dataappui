@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "dataapp",
+    "slug": "dataapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "dataapp"
+}
